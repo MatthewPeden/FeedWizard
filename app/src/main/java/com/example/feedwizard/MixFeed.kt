@@ -20,4 +20,5 @@ class MixFeed : AppCompatActivity() {
             startActivity(intent)
         }
     }
+
 }
